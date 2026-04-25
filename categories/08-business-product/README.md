@@ -66,6 +66,11 @@ User research specialist uncovering user needs and behaviors. Expert in research
 
 **Use when:** Conducting user interviews, running usability tests, analyzing user behavior, creating personas, or validating product decisions.
 
+### [**ai-content-editor**](ai-content-editor.md) - AI writing pattern removal specialist
+Content editor specializing in pre-publication quality review for AI-generated and AI-assisted content. Runs [unslop](https://github.com/MohamedAbdallah-14/unslop) automatically to strip sycophantic openers, stock vocabulary, hedging stacks, and em-dash overuse, then applies an editorial pass. Code blocks, URLs, and technical terms pass through unchanged. Install: `npm install -g unslop`.
+
+**Use when:** Reviewing READMEs, blog posts, release notes, PR descriptions, documentation, or social copy before publication to remove AI writing patterns.
+
 ## Quick Selection Guide
 
 | If you need to... | Use this subagent |

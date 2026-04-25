@@ -81,6 +81,11 @@ Tooling expert building and integrating developer tools. Masters IDE configurati
 
 **Use when:** Setting up development tools, creating custom tooling, configuring IDEs, implementing code quality tools, or building developer platforms.
 
+### [**visual-asset-generator**](visual-asset-generator.md) - Visual asset generation specialist
+Visual asset specialist generating production-ready digital assets for software projects using the [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) MCP server. Routes prompts across 30+ image generation models. Zero API key required for first run via free tiers. Install: `npm install -g prompt-to-asset`.
+
+**Use when:** Generating app icons, favicons, OG images for GitHub or social sharing, logo marks, wordmarks, or social banners for any software project.
+
 ## Quick Selection Guide
 
 | If you need to... | Use this subagent |
