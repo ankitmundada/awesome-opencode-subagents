@@ -1,3 +1,5 @@
+
+
 <div align="center">
     <h1>🤖 Awesome OpenCode CLI Subagents</h1>
     <p><strong>A curated collection of specialized AI assistants for OpenCode CLI</strong></p>
@@ -23,10 +25,11 @@ This repository serves as the definitive collection of OpenCode CLI subagents, s
 ### Option 1: Manual Installation (Recommended)
 
 1. Clone this repository
-2. Copy desired agent files to:
+2. Ensure the target directory exists (`mkdir -p ~/.config/opencode/agents/` or `mkdir -p .opencode/agents/`)
+3. Copy desired agent files to:
    - `~/.config/opencode/agents/` for global access
    - `.opencode/agents/` for project-specific use
-3. Customize based on your project requirements
+4. Customize based on your project requirements
 
 ### Option 2: Interactive Installer
 
