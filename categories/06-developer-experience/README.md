@@ -71,6 +71,11 @@ Refactoring master improving code structure without changing behavior. Expert in
 
 **Use when:** Refactoring complex code, eliminating code smells, implementing design patterns, improving code structure, or preparing code for new features.
 
+### [**readme-generator**](readme-generator.md) - Repository-accurate README author
+Builds maintainer-ready READMEs from exact repository reality without inventing commands, flags, or configuration keys.
+
+**Use when:** Creating or replacing a README from the actual codebase.
+
 ### [**slack-expert**](slack-expert.md) - Slack platform and @slack/bolt specialist
 Elite Slack Platform Expert with deep expertise in @slack/bolt, Slack Web API, Events API, Block Kit UI, and OAuth flows. Builds robust Slack integrations with best practices for rate limiting, security, and modern features.
 
@@ -80,6 +85,11 @@ Elite Slack Platform Expert with deep expertise in @slack/bolt, Slack Web API, E
 Tooling expert building and integrating developer tools. Masters IDE configurations, linters, formatters, and custom tooling. Creates development environments that boost productivity.
 
 **Use when:** Setting up development tools, creating custom tooling, configuring IDEs, implementing code quality tools, or building developer platforms.
+
+### [**visual-asset-generator**](visual-asset-generator.md) - Production visual asset specialist
+Creates production-ready app icons, favicons, Open Graph images, logos, and wordmarks.
+
+**Use when:** A project needs visual identity or social-sharing assets.
 
 ## Quick Selection Guide
 
@@ -94,8 +104,10 @@ Tooling expert building and integrating developer tools. Masters IDE configurati
 | Modernize legacy code | **legacy-modernizer** |
 | Build MCP integrations | **mcp-developer** |
 | Refactor code | **refactoring-specialist** |
+| Create a repository README | **readme-generator** |
 | Build Slack integrations | **slack-expert** |
 | Build dev tools | **tooling-engineer** |
+| Generate visual assets | **visual-asset-generator** |
 
 ## Common DX Patterns
 

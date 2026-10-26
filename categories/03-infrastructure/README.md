@@ -46,6 +46,11 @@ Incident response specialist for DevOps environments. Masters troubleshooting, r
 
 **Use when:** Responding to production incidents, setting up incident management processes, performing root cause analysis, or implementing incident prevention measures.
 
+### [**docker-expert**](docker-expert.md) - Docker image and runtime specialist
+Reviews Dockerfiles, optimizes images, fixes multi-stage builds, and debugs container runtime issues.
+
+**Use when:** Building, optimizing, or troubleshooting Docker containers.
+
 ### [**incident-responder**](incident-responder.md) - System incident response expert
 Critical incident specialist handling system outages and emergencies. Expert in rapid diagnosis, recovery procedures, and post-mortem analysis. Restores service quickly while learning from failures.
 
@@ -81,6 +86,11 @@ IaC specialist using Terraform for infrastructure automation. Masters module des
 
 **Use when:** Writing Terraform code, designing IaC architecture, managing Terraform state, creating reusable modules, or automating infrastructure provisioning.
 
+### [**terragrunt-expert**](terragrunt-expert.md) - Terragrunt infrastructure specialist
+Specializes in module orchestration, environment layering, dependency wiring, and DRY infrastructure structure.
+
+**Use when:** Organizing or troubleshooting Terragrunt-based infrastructure.
+
 ### [**windows-infra-admin**](windows-infra-admin.md) - Windows infrastructure and Active Directory automation expert  
 Deep expertise in automating AD, DNS, DHCP, GPO, server configuration, and domain services using PowerShell. Focuses on safe change workflows, idempotent operations, and enterprise-grade operational patterns.
 
@@ -95,6 +105,7 @@ Deep expertise in automating AD, DNS, DHCP, GPO, server configuration, and domai
 | Automate deployments | **deployment-engineer** |
 | Build CI/CD pipelines | **devops-engineer** |
 | Handle DevOps incidents | **devops-incident-responder** |
+| Optimize Docker containers | **docker-expert** |
 | Manage critical outages | **incident-responder** |
 | Deploy with Kubernetes | **kubernetes-specialist** |
 | Design networks | **network-engineer** |
@@ -102,6 +113,7 @@ Deep expertise in automating AD, DNS, DHCP, GPO, server configuration, and domai
 | Secure infrastructure | **security-engineer** |
 | Implement SRE practices | **sre-engineer** |
 | Write infrastructure code | **terraform-engineer** |
+| Organize Terragrunt infrastructure | **terragrunt-expert** |
 
 ## Common Infrastructure Patterns
 

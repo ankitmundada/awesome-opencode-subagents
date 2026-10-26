@@ -31,6 +31,21 @@ Architecture expert evaluating system designs for scalability, maintainability, 
 
 **Use when:** Reviewing architecture designs, evaluating technical decisions, identifying architectural debt, planning refactoring, or validating system design.
 
+### [**anti-ui-slop-reviewer**](anti-ui-slop-reviewer.md) - Product-specific UI finish-gate reviewer
+Reviews web and iOS interfaces for generic AI patterns, hierarchy issues, missing interaction states, responsive behavior, accessibility signals, and design-system drift.
+
+**Use when:** Applying an evidence-based final quality gate to a user interface before release.
+
+### [**ai-writing-auditor**](ai-writing-auditor.md) - AI-writing pattern auditor
+Checks prose for AI writing patterns and rewrites it to sound natural and human.
+
+**Use when:** Reviewing AI-generated documentation, release notes, or other prose before publication.
+
+### [**browser-debugger**](browser-debugger.md) - Browser-based debugging specialist
+Reproduces UI issues, gathers browser evidence, and investigates client-side behavior through a browser MCP server.
+
+**Use when:** Debugging a web UI in a live browser environment.
+
 ### [**chaos-engineer**](chaos-engineer.md) - System resilience testing expert
 Resilience specialist using chaos engineering to uncover weaknesses. Masters failure injection, game days, and chaos experiments. Builds confidence in system reliability through controlled chaos.
 
@@ -56,6 +71,11 @@ Error investigation specialist tracking down elusive bugs. Expert in log analysi
 
 **Use when:** Investigating production errors, analyzing error patterns, setting up error tracking, improving error handling, or debugging distributed systems.
 
+### [**gdpr-ccpa-compliance**](gdpr-ccpa-compliance.md) - GDPR and CCPA/CPRA compliance reviewer
+Reviews data practices, consent flows, and data-subject rights handling for privacy compliance.
+
+**Use when:** Assessing GDPR or CCPA/CPRA requirements for a product or feature.
+
 ### [**penetration-tester**](penetration-tester.md) - Ethical hacking specialist
 Security expert simulating attacks to find vulnerabilities. Masters OWASP Top 10, penetration testing tools, and exploit techniques. Thinks like an attacker to defend like a pro.
 
@@ -76,6 +96,11 @@ Quality assurance master designing comprehensive test strategies. Expert in test
 
 **Use when:** Setting up test automation, designing test strategies, implementing CI/CD testing, improving test coverage, or establishing QA processes.
 
+### [**reviewer**](reviewer.md) - PR-style correctness and security reviewer
+Reviews changes for correctness, security, behavior regressions, and missing tests.
+
+**Use when:** Requesting a focused pull-request review.
+
 ### [**security-auditor**](security-auditor.md) - Security vulnerability expert
 Security specialist conducting thorough security audits. Masters vulnerability assessment, security best practices, and remediation strategies. Protects applications from evolving threats.
 
@@ -86,22 +111,33 @@ Automation specialist building robust test frameworks. Expert in various testing
 
 **Use when:** Building test frameworks, automating test cases, integrating tests with CI/CD, improving test reliability, or scaling test automation.
 
+### [**ui-ux-tester**](ui-ux-tester.md) - UI and UX functional tester
+Tests documented user flows exhaustively and produces structured defect reports.
+
+**Use when:** Validating UI behavior and user experience before release.
+
 ## Quick Selection Guide
 
 | If you need to... | Use this subagent |
 |-------------------|-------------------|
 | Make apps accessible | **accessibility-tester** |
 | Review architecture | **architect-reviewer** |
+| Review UI finish quality | **anti-ui-slop-reviewer** |
+| Audit AI-generated prose | **ai-writing-auditor** |
+| Debug a browser UI | **browser-debugger** |
 | Test system resilience | **chaos-engineer** |
 | Review code quality | **code-reviewer** |
 | Achieve compliance | **compliance-auditor** |
 | Debug complex issues | **debugger** |
 | Investigate errors | **error-detective** |
+| Review GDPR or CCPA compliance | **gdpr-ccpa-compliance** |
 | Test security | **penetration-tester** |
 | Optimize performance | **performance-engineer** |
 | Automate testing | **qa-expert** |
+| Perform a PR-style review | **reviewer** |
 | Audit security | **security-auditor** |
 | Build test frameworks | **test-automator** |
+| Test UI and UX flows | **ui-ux-tester** |
 
 ## Common Quality Patterns
 

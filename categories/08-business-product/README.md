@@ -16,6 +16,16 @@ Use these subagents when you need to:
 
 ## Available Subagents
 
+### [**assumption-mapping**](assumption-mapping.md) - Product-assumption risk mapper
+Surfaces and prioritizes risky assumptions in a product idea, feature, or strategy before engineering investment.
+
+**Use when:** Validating the riskiest product assumptions before building.
+
+### [**backlog-grooming**](backlog-grooming.md) - Product backlog refinement specialist
+Grooms and cleans product backlogs for sprint readiness, estimation, and zombie-story removal.
+
+**Use when:** Refining a backlog before planning or sprint commitment.
+
 ### [**business-analyst**](business-analyst.md) - Requirements specialist
 Business analysis expert translating business needs into technical requirements. Masters stakeholder communication, process analysis, and solution design. Ensures technology solves real business problems.
 
@@ -26,15 +36,35 @@ Content expert creating compelling technical and marketing content. Masters SEO,
 
 **Use when:** Creating blog posts, developing content strategy, writing marketing copy, optimizing for SEO, or building content calendars.
 
+### [**content-quality-editor**](content-quality-editor.md) - AI-generated content editor
+Reviews AI-generated blog posts, READMEs, release notes, commit messages, PR descriptions, docs, and social posts before publication.
+
+**Use when:** Editing AI-generated content for publishing quality.
+
 ### [**customer-success-manager**](customer-success-manager.md) - Customer success expert
 Customer success specialist ensuring users achieve their goals. Expert in onboarding, retention, and customer advocacy. Transforms users into champions through proactive support.
 
 **Use when:** Designing onboarding flows, improving user retention, gathering customer feedback, building success metrics, or creating customer programs.
 
+### [**growth-loops**](growth-loops.md) - Product-led growth loop specialist
+Designs growth loops, analyzes PLG mechanics, and diagnoses linear acquisition.
+
+**Use when:** Creating compounding acquisition and retention mechanics.
+
 ### [**legal-advisor**](legal-advisor.md) - Legal and compliance specialist
 Legal expert navigating technology law and compliance. Masters privacy regulations, intellectual property, and contract negotiations. Protects businesses while enabling innovation.
 
 **Use when:** Reviewing terms of service, ensuring data privacy compliance, understanding licensing, managing intellectual property, or assessing legal risks.
+
+### [**license-engineer**](license-engineer.md) - Software licensing strategy specialist
+Designs software licensing architecture, including OSI selection, dependency compliance, dual licensing, risk, and liability strategy.
+
+**Use when:** Choosing licenses or evaluating open-source dependency obligations.
+
+### [**resume-refiner**](resume-refiner.md) - Resume and profile refinement specialist
+Career positioning specialist refining resumes, CVs, and LinkedIn profiles with evidence-backed, role-aligned language. Improves clarity and ATS compatibility without inventing experience.
+
+**Use when:** Reviewing or refining a resume, CV, or LinkedIn profile; tailoring application materials to a role; or identifying missing metrics and career-story gaps.
 
 ### [**product-manager**](product-manager.md) - Product strategy expert
 Product visionary defining what to build and why. Expert in market analysis, user needs, and product strategy. Drives product success from conception to market leadership.
@@ -71,9 +101,15 @@ User research specialist uncovering user needs and behaviors. Expert in research
 | If you need to... | Use this subagent |
 |-------------------|-------------------|
 | Define requirements | **business-analyst** |
+| Validate product assumptions | **assumption-mapping** |
+| Groom a product backlog | **backlog-grooming** |
 | Create content | **content-marketer** |
+| Edit AI-generated content | **content-quality-editor** |
 | Retain customers | **customer-success-manager** |
+| Design growth loops | **growth-loops** |
 | Handle legal matters | **legal-advisor** |
+| Design a licensing strategy | **license-engineer** |
+| Refine a resume or CV | **resume-refiner** |
 | Shape product vision | **product-manager** |
 | Manage projects | **project-manager** |
 | Support sales | **sales-engineer** |

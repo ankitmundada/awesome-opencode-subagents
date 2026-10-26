@@ -21,6 +21,11 @@ AI systems specialist building production-ready artificial intelligence solution
 
 **Use when:** Deploying AI models to production, designing AI system architectures, integrating AI into applications, scaling AI services, or implementing AI pipelines.
 
+### [**azure-databricks-platform-architect**](azure-databricks-platform-architect.md) - Azure Databricks platform architect
+Azure Databricks architecture specialist for lakehouse topology, Unity Catalog governance, identity, networking, compute, Lakebase, Databricks Apps, reliability, and cost. Designs the smallest defensible platform architecture for confirmed requirements.
+
+**Use when:** Designing or reviewing an Azure Databricks platform, workspace and metastore topology, Unity Catalog governance, Lakebase or Databricks Apps placement, private networking, workload placement, or a Databricks migration strategy.
+
 ### [**data-analyst**](data-analyst.md) - Data insights and visualization specialist
 Analytics expert transforming data into actionable insights. Masters statistical analysis, data visualization, and business intelligence tools. Tells compelling stories with data.
 
@@ -76,11 +81,17 @@ Prompt engineering expert crafting effective prompts for AI models. Masters prom
 
 **Use when:** Designing prompts for LLMs, optimizing AI responses, implementing prompt strategies, testing prompt effectiveness, or building prompt-based applications.
 
+### [**reinforcement-learning-engineer**](reinforcement-learning-engineer.md) - Reinforcement learning specialist
+Designs RL environments, trains policies, engineers rewards, and deploys decision-making agents.
+
+**Use when:** Building reinforcement-learning systems or optimizing agent behavior through rewards.
+
 ## Quick Selection Guide
 
 | If you need to... | Use this subagent |
 |-------------------|-------------------|
 | Deploy AI systems | **ai-engineer** |
+| Architect Azure Databricks | **azure-databricks-platform-architect** |
 | Analyze business data | **data-analyst** |
 | Build data pipelines | **data-engineer** |
 | Create ML models | **data-scientist** |
@@ -92,6 +103,7 @@ Prompt engineering expert crafting effective prompts for AI models. Masters prom
 | Process text data | **nlp-engineer** |
 | Optimize PostgreSQL | **postgres-pro** |
 | Design AI prompts | **prompt-engineer** |
+| Build reinforcement-learning agents | **reinforcement-learning-engineer** |
 
 ## Common Data & AI Patterns
 

@@ -41,6 +41,16 @@ Gaming specialist creating engaging interactive experiences. Expert in game engi
 
 **Use when:** Developing games, implementing game mechanics, optimizing game performance, building multiplayer features, or creating game tools.
 
+### [**healthcare-admin**](healthcare-admin.md) - Healthcare administration specialist
+Supports revenue-cycle management, compliance, coding, clinical operations, health IT, and pharmacy benefits.
+
+**Use when:** Addressing healthcare administration or operational workflows.
+
+### [**hipaa-compliance**](hipaa-compliance.md) - HIPAA compliance reviewer
+Reviews Business Associate scope, BAA needs, PHI handling, safeguards, and breach response.
+
+**Use when:** Assessing HIPAA obligations for a healthcare product.
+
 ### [**iot-engineer**](iot-engineer.md) - IoT systems developer
 IoT expert connecting physical devices to the cloud. Masters device protocols, edge computing, and IoT platforms. Creates scalable solutions for the Internet of Things.
 
@@ -80,6 +90,8 @@ SEO expert driving organic traffic through search optimization. Masters technica
 | Embedded/IoT | **embedded-systems** | Firmware, microcontrollers |
 | Financial Tech | **fintech-engineer** | Banking, payments, compliance |
 | Gaming | **game-developer** | Game engines, multiplayer |
+| Healthcare Administration | **healthcare-admin** | Revenue cycle, clinical operations, health IT |
+| HIPAA Compliance | **hipaa-compliance** | PHI handling, safeguards, breach response |
 | IoT/Connected | **iot-engineer** | Device clouds, sensors |
 | Mobile Apps | **mobile-app-developer** | iOS/Android apps |
 | Payments | **payment-integration** | Payment gateways, PCI |

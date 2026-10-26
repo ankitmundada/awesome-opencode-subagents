@@ -26,6 +26,11 @@ Context specialist maximizing efficiency in AI conversations. Expert in context 
 
 **Use when:** Optimizing long conversations, managing context windows, prioritizing information, implementing memory systems, or handling context overflow.
 
+### [**codebase-orchestrator**](codebase-orchestrator.md) - Repository-wide refactor orchestrator
+Governs repository-wide refactors with weighted risk prioritization, diff previews, and explicit approval gates.
+
+**Use when:** Planning a high-risk, multi-file refactor before execution.
+
 ### [**error-coordinator**](error-coordinator.md) - Error handling and recovery specialist
 Error handling expert ensuring graceful failure recovery. Masters error patterns, fallback strategies, and system resilience. Keeps multi-agent systems running smoothly despite failures.
 
@@ -67,6 +72,7 @@ Workflow specialist designing and executing sophisticated AI workflows. Expert i
 |-------------------|-------------------|
 | Coordinate multiple agents | **agent-organizer** |
 | Manage context efficiently | **context-manager** |
+| Govern a repository-wide refactor | **codebase-orchestrator** |
 | Handle system errors | **error-coordinator** |
 | Combine knowledge sources | **knowledge-synthesizer** |
 | Scale agent operations | **multi-agent-coordinator** |

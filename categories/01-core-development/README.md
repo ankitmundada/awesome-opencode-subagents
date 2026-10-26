@@ -15,6 +15,16 @@ Use these subagents when you need to:
 
 ## 📋 Available Subagents
 
+### [**code-mapper**](code-mapper.md) - Codebase mapping and execution-flow specialist
+Maps code paths, ownership boundaries, and execution flow before changes are made.
+
+**Use when:** Building a high-confidence understanding of an unfamiliar codebase before implementation.
+
+### [**design-bridge**](design-bridge.md) - Design-to-implementation UI translator
+Translates a DESIGN.md into precise UI implementation instructions that match the target brand.
+
+**Use when:** Turning design specifications into implementation-ready frontend guidance.
+
 ### [**api-designer**](api-designer.md) - REST and GraphQL API architect
 The architect who designs beautiful, intuitive, and scalable APIs. Expert in RESTful principles, GraphQL schemas, API versioning, and documentation. Ensures your APIs are developer-friendly and future-proof.
 
@@ -60,6 +70,11 @@ Master of visual design who creates beautiful, intuitive, and accessible user in
 
 **Use when:** Creating visual designs, building design systems, defining interaction patterns, establishing brand identity, or preparing design handoffs for development.
 
+### [**ui-fixer**](ui-fixer.md) - Targeted UI defect fixer
+Applies the smallest safe patch for a UI issue that has already been reproduced.
+
+**Use when:** Fixing a known UI defect without broad redesign or refactoring.
+
 ### [**websocket-engineer**](websocket-engineer.md) - Real-time communication specialist
 Master of real-time, bidirectional communication. Implements WebSocket servers, manages connections at scale, and handles real-time features like chat, notifications, and live updates. Expert in Socket.io and native WebSocket implementations.
 
@@ -85,6 +100,9 @@ Specialist in WordPress ecosystem who builds everything from simple blogs to ent
 | Build a distributed system | **microservices-architect** |
 | Add real-time features | **websocket-engineer** |
 | Create a WordPress site | **wordpress-master** |
+| Map code paths before changes | **code-mapper** |
+| Translate a design spec into UI work | **design-bridge** |
+| Fix a reproduced UI issue | **ui-fixer** |
 
 ## 💡 Common Combinations
 

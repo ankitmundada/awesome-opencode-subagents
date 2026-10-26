@@ -50,6 +50,21 @@ Elixir language expert focusing on fault-tolerant, concurrent systems using OTP 
 
 **Use when:** Building fault-tolerant systems, creating real-time apps with Phoenix LiveView, implementing distributed Elixir clusters, or leveraging OTP patterns for reliability.
 
+### [**erlang-expert**](erlang-expert.md) - Erlang/OTP and rebar3 specialist
+Expert in BEAM processes, testing, releases, upgrades, and distributed runtime behavior.
+
+**Use when:** Building or maintaining Erlang/OTP systems and rebar3 projects.
+
+### [**expo-react-native-expert**](expo-react-native-expert.md) - Expo and React Native specialist
+Specializes in mobile navigation, native modules, performance, EAS builds, and store deployment.
+
+**Use when:** Building or shipping an Expo or React Native application.
+
+### [**fastapi-developer**](fastapi-developer.md) - FastAPI implementation specialist
+Builds async endpoints, Pydantic v2 contracts, dependency injection, and ASGI deployments.
+
+**Use when:** Implementing or debugging FastAPI services.
+
 ### [**flutter-expert**](flutter-expert.md) - Flutter 3+ cross-platform mobile expert
 Mobile development specialist creating beautiful, natively compiled applications from a single codebase. Expert in widget composition, state management, and platform-specific implementations.
 
@@ -84,6 +99,11 @@ PHP framework specialist focusing on Laravel's elegant syntax and powerful featu
 React framework expert specializing in Next.js App Router, server components, and full-stack features. Builds blazing-fast, SEO-friendly web applications.
 
 **Use when:** Creating Next.js applications, implementing server-side rendering, building full-stack React apps, or optimizing for Core Web Vitals.
+
+### [**node-specialist**](node-specialist.md) - Node.js runtime specialist
+Specializes in APIs, CLIs, workers, and services that depend on event-loop, stream, and runtime behavior.
+
+**Use when:** Building or debugging Node.js backend services and tools.
 
 ### [**php-pro**](php-pro.md) - PHP web development expert
 Modern PHP specialist with expertise in PHP 8+ features, Composer ecosystem, and framework-agnostic development. Builds secure, performant PHP applications.
@@ -135,6 +155,11 @@ Swift language expert for Apple platform development. Masters SwiftUI, UIKit, an
 
 **Use when:** Developing iOS/macOS applications, implementing SwiftUI interfaces, working with Apple frameworks, or optimizing Swift performance.
 
+### [**symfony-specialist**](symfony-specialist.md) - Symfony application specialist
+Works across Symfony routing, controllers, services, Doctrine, security, and application structure.
+
+**Use when:** Building, extending, or troubleshooting Symfony applications.
+
 ### [**typescript-pro**](typescript-pro.md) - TypeScript specialist
 TypeScript expert ensuring type safety in JavaScript applications. Masters advanced type system features, generics, and TypeScript configuration for large-scale applications.
 
@@ -156,6 +181,9 @@ Vue.js framework specialist mastering the Composition API, reactivity system, an
 | .NET Core | **dotnet-core-expert** | Cross-platform .NET, microservices |
 | .NET Framework | **dotnet-framework-4.8-expert** | Legacy enterprise apps, Windows services |
 | Elixir | **elixir-expert** | Fault-tolerant systems, Phoenix/LiveView |
+| Erlang | **erlang-expert** | OTP systems, rebar3, distributed runtime |
+| Expo/React Native | **expo-react-native-expert** | Mobile apps, EAS builds, store deployment |
+| FastAPI | **fastapi-developer** | Async APIs, Pydantic contracts, ASGI |
 | Flutter | **flutter-expert** | Cross-platform mobile apps |
 | Go | **golang-pro** | Concurrent systems, microservices |
 | Java | **java-architect** | Enterprise applications |
@@ -163,6 +191,7 @@ Vue.js framework specialist mastering the Composition API, reactivity system, an
 | Kotlin | **kotlin-specialist** | Android apps, modern JVM |
 | Laravel | **laravel-specialist** | PHP web applications |
 | Next.js | **nextjs-developer** | Full-stack React apps |
+| Node.js | **node-specialist** | APIs, CLIs, workers, runtime behavior |
 | PHP | **php-pro** | Web development, APIs |
 | Python | **python-pro** | General purpose, data science |
 | Rails | **rails-expert** | Rapid web development |
@@ -171,6 +200,7 @@ Vue.js framework specialist mastering the Composition API, reactivity system, an
 | Spring Boot | **spring-boot-engineer** | Java microservices |
 | SQL | **sql-pro** | Database queries, optimization |
 | Swift | **swift-expert** | iOS/macOS development |
+| Symfony | **symfony-specialist** | PHP web applications, Doctrine, security |
 | TypeScript | **typescript-pro** | Type-safe JavaScript |
 | Vue | **vue-expert** | Progressive web apps |
 

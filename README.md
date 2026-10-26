@@ -7,7 +7,7 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Subagent Count](https://img.shields.io/badge/subagents-128-blue?style=flat-square)
+![Subagent Count](https://img.shields.io/badge/subagents-175-blue?style=flat-square)
 [![Last Update](https://img.shields.io/github/last-commit/ankitmundada/awesome-opencode-subagents?label=Last%20update&style=flat-square)](https://github.com/ankitmundada/awesome-opencode-subagents)
 
 </div>

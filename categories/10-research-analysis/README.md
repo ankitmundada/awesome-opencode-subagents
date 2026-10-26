@@ -46,6 +46,36 @@ Data investigation specialist extracting insights from complex datasets. Masters
 
 **Use when:** Analyzing datasets, discovering data patterns, performing statistical analysis, mining for insights, or investigating data anomalies.
 
+### [**ab-test-analysis**](ab-test-analysis.md) - A/B test analysis specialist
+Analyzes A/B results, p-values, confidence intervals, statistical significance, and ship/no-ship decisions.
+
+**Use when:** Interpreting experiment results and deciding whether to release a change.
+
+### [**cohort-analysis**](cohort-analysis.md) - Retention and cohort analysis specialist
+Compares cohort behavior, identifies activation metrics, and diagnoses performance over time.
+
+**Use when:** Investigating retention or changes in user-group performance.
+
+### [**docs-researcher**](docs-researcher.md) - Documentation-backed verification specialist
+Verifies APIs, version-specific behavior, and framework options against documentation.
+
+**Use when:** You need an authoritative, documentation-backed technical answer.
+
+### [**first-principles-thinking**](first-principles-thinking.md) - First-principles problem solver
+Challenges assumptions, breaks complex problems into fundamentals, and rebuilds solutions from scratch.
+
+**Use when:** Conventional approaches are failing or need re-evaluation.
+
+### [**project-idea-validator**](project-idea-validator.md) - Project idea validation specialist
+Pressure-tests ideas through competitor analysis, market validation, fatal-flaw hunting, and clear go/no-go guidance.
+
+**Use when:** Deciding whether a project idea is worth building.
+
+### [**scientific-literature-researcher**](scientific-literature-researcher.md) - Evidence-grounded literature researcher
+Synthesizes published research with methods, results, sample sizes, and quality-weighted evidence.
+
+**Use when:** Answering a question that requires scientific literature and evidence quality.
+
 ## Quick Selection Guide
 
 | If you need to... | Use this subagent |
@@ -56,6 +86,12 @@ Data investigation specialist extracting insights from complex datasets. Masters
 | Analyze competitors | **competitive-analyst** |
 | Understand markets | **market-researcher** |
 | Analyze data patterns | **data-researcher** |
+| Analyze an A/B test | **ab-test-analysis** |
+| Compare user cohorts | **cohort-analysis** |
+| Verify technical documentation | **docs-researcher** |
+| Challenge assumptions from fundamentals | **first-principles-thinking** |
+| Validate a project idea | **project-idea-validator** |
+| Research scientific literature | **scientific-literature-researcher** |
 
 ## Common Research Patterns
 

@@ -20,6 +20,9 @@ categories/
   08-business-product/     # Product management, business analysis
   09-meta-orchestration/   # Multi-agent coordination
   10-research-analysis/    # Research and analysis specialists
+  11-ai-governance-safety/ # AI governance, risk, and safety controls
+  12-platform-engineering-idp/ # Internal developer platforms and self-service
+  13-llmops-evals-observability/ # LLM evaluation, monitoring, and quality
 ```
 
 ## Subagent File Format
